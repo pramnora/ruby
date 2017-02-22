@@ -6,3 +6,5 @@ Ruby program code
 The Ruby Style Guide  
 https://github.com/bbatsov/ruby-style-guide  
 
+Become ﻿a ﻿Better Ruby Developer With This ﻿﻿FREE﻿﻿ ﻿Guide  (downloadable PDF)  
+http://www.blackbytes.info/free-gift/  
