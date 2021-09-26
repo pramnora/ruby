@@ -47,11 +47,17 @@ finally, click option 3...; and, wait for set up to conclude.
 
 #### Example 3: Function...calculate simple mathematical expression
 
->> def add(a,b)        
+>> def add01(a,b)        
 >>  puts(a+b)               
 >> end                          
 >> add(1,2)    
 
+#### Example 4: Function...getting a function to return a mathematical expression
+
+>> def add02(a,b)        
+>>  return(a+b)               
+>> end                          
+>> puts(add(1,2))    
 
 -----
 
