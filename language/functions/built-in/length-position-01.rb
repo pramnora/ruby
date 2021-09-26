@@ -14,4 +14,8 @@ puts text[0]
 # Explanation...
 # 1234567890123
 # Hello, world!
+# ----
 # NOTE: Ruby counts character position 1 as 0/2 as 1/-etc.
+#       therefore, puts text[0] will print out the 1st character, H
+#                  puts text[1] will print out the 2nd character, e
+#                  -etc.
