@@ -37,6 +37,8 @@ and, type in the following line of Ruby code...
 
 ...save the file as being called: [hw01.rb]  
 
+**NOTE**: Ruby program files are saved using filename extenstion: [.rb].   
+
 2>  
 
 Open up a Windows DOS prompt...;    
@@ -52,6 +54,7 @@ Writing/running Ruby code works well inside of the following Code editors/IDE's.
 
 - Atom   
 - VSCode/Visual Studio code editor  
+- Windows Notepad  
 
 **NOTE**: My preferred code editor is VSCode.
 
