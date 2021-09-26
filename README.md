@@ -72,6 +72,17 @@ Writing/running Ruby code works well inside of the following Code editors/IDE's.
 >> print "Hello, world!" # print, does not include a 'new line' at the end  
 >> puts "Hello, world!"  # puts, includes a 'new line' at the end   
 
+### If block...
+
+>> x=1  
+>> if x==1  
+>> puts("x=1")  
+>> elsif x==2  
+>> puts("x=2")  
+>> else   
+>> puts("x NOT 1/x NOT 2")  
+>> end  
+
 ### How to create/use functions...
 
 #### Example 1: Function...with empty argument list
