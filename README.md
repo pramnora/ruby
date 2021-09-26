@@ -47,6 +47,11 @@ and, type in...
 C:\>ruby hw01.rb  
 Hello, world!  
 
+-(**NOTE**: Currently, I have not been able to figure out how to type in/and, run Ruby code   
+          directly from inside of MS DOS on the fly...;  
+          so, instead, I have no other choice but the write the Ruby code inside of a file;  
+          and, then, afterwards us MS DOS to execute the code from there.)-  
+
 
 ## Code editors...IDE/Integrated Development Enviroment
 
