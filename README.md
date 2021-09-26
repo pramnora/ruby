@@ -45,6 +45,14 @@ finally, click option 3...; and, wait for set up to conclude.
 >> end                          
 >> printMsg2("Hello, world!")    
 
+#### Example 3: Function...calculate simple mathematical expression
+
+>> def add(a,b)        
+>>  print(a+b)               
+>> end                          
+>> add(1,2)    
+
+
 -----
 
 ## Links...
