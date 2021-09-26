@@ -8,7 +8,7 @@ def myFunc2(msgText)            # ...single argument list
   print(msgText)
 end  
 
-def myFunct3(msgText1,msgText2) # ...double argument list
+def myFunc3(msgText1,msgText2) # ...double argument list
   print(msgText1)
   print(msgText2)
 
