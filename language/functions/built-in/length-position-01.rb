@@ -20,3 +20,10 @@ puts text[0]
 #       therefore, puts text[0] will print out the 1st character, H
 #                  puts text[1] will print out the 2nd character, e
 #                  -etc.
+#       Or, in other words, as Ruby starts couning from zero...; 
+#       and, not one...as we would, normally, do...;
+#       therefore, Ruby sees the string of characters as looking like this:
+#       0123456789012
+#       Hello, world!
+#       1234567890123
+#       ...as opposed to counting up each character by using the bottom method.
