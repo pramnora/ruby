@@ -14,6 +14,7 @@ puts text[0]
 # Explanation...
 # 1234567890123
 # Hello, world!
+# ...thus, the text string: "Hello, world!" consists of 13 characters, altogether.
 # ----
 # NOTE: Ruby counts character position 1 as 0/2 as 1/-etc.
 #       therefore, puts text[0] will print out the 1st character, H
