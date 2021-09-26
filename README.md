@@ -23,8 +23,28 @@ finally, click option 3...; and, wait for set up to conclude.
 In order to check if your system has Ruby correctly set up/and, working...;     
 first, open a command prompt; and, next, type in...    
 
-C:\Users\customer1>ruby -v  
+C:\>ruby -v  
 ruby 2.7.4p191 (2021-07-07 revision a21a3b7d23) [x64-mingw32]  
+
+## How to write/run Ruby code using a mixture of Windows Notepad/MS DOS...
+
+1>  
+
+Open up Windows Notepad editor software...;   
+and, type in the following line of Ruby code...   
+
+>> puts("Hello, world")  
+
+...save the file as being called: [hw01.rb]  
+
+2>  
+
+Open up a Windows DOS prompt...;    
+and, type in...  
+
+C:\>ruby hw01.rb  
+Hello, world!  
+
 
 ## Code editors...IDE/Integrated Development Enviroment
 
