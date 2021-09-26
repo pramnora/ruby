@@ -7,9 +7,13 @@ puts text.length()
 # print a specific character...
 puts text[0]
 
+# print a selection of characters...
+puts text[0,3] # prints characters going from: 0...up to...but, NOT including the last number: 3.
+
 # Output...
 # 13
 # H
+# Hel
 
 # Explanation...
 # 1234567890123 (humans, count up from position one)
