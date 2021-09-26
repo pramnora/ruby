@@ -3,7 +3,7 @@ Ruby program code
 
 -----
 
-## Download/and, Set up Ruby on Windows 10 Pro
+## Download/and, Set up Ruby on Windows 10 Pro...
 
 https://rubyinstaller.org/downloads/  
 ...The Ruby programming language can be downloaded from the above link.  
@@ -17,6 +17,14 @@ it is recommended you click all 3 options in order to set it up to work properly
 so, click option 1...; then, wait for set up to finish;  
 then, click option 2...; and, wait for set up to finish;  
 finally, click option 3...; and, wait for set up to conclude.  
+
+## Check which Ruby version is running on your Windows computer operating system...
+
+In order to check if your system has Ruby correctly set up/and, working...;     
+first, open a command prompt; and, next, type in...    
+
+C:\Users\customer1>ruby -v  
+ruby 2.7.4p191 (2021-07-07 revision a21a3b7d23) [x64-mingw32]  
 
 **NOTE**: You can run Ruby code inside of VSCode/Visual Studio code editor.
 
