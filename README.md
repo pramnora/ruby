@@ -34,21 +34,21 @@ finally, click option 3...; and, wait for set up to conclude.
 #### Example 1: Function...with empty argument list
 
 >> def printMsg1()             
->>  print("Hello, world!")      
+>>  puts("Hello, world!")      
 >> end                         
 >> printMsg1()                   
 
 #### Example 2: Function...with single argument list
 
 >> def printMsg2(textMsg)        
->>  print(textMsg)               
+>>  puts(textMsg)               
 >> end                          
 >> printMsg2("Hello, world!")    
 
 #### Example 3: Function...calculate simple mathematical expression
 
 >> def add(a,b)        
->>  print(a+b)               
+>>  puts(a+b)               
 >> end                          
 >> add(1,2)    
 
