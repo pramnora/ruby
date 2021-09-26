@@ -8,7 +8,7 @@ puts text.length()
 puts text[0]
 
 # print a selection of characters...
-puts text[0,3] # prints characters going from: 0...up to...but, NOT including the last number: 3.
+puts text[0,3] # prints a selection of characters going from: 0...up to...but, NOT including the last number: 3.
 
 # Output...
 # 13
