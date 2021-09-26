@@ -1,3 +1,5 @@
+# print text to output screen...
+
 puts "Hello, world!"
 puts "Hello, world!"
 
