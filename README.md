@@ -33,17 +33,17 @@ finally, click option 3...; and, wait for set up to conclude.
 
 #### Example 1: Function...with empty argument list
 
->> def printMsg()             
+>> def printMsg1()             
 >>  print("Hello, world!")      
 >> end                         
->> printMsg()                   
+>> printMsg1()                   
 
 #### Example 2: Function...with single argument list
 
->> def printMsg(textMsg)        
+>> def printMsg2(textMsg)        
 >>  print(textMsg)               
 >> end                          
->> printMsg("Hello, world!")    
+>> printMsg2("Hello, world!")    
 
 -----
 
