@@ -13,12 +13,37 @@ https://rubyinstaller.org/downloads/
 Once, the program has already been downloaded; then, just double click the file in order to set it up.
 
 When setting up is finished...you will see a menu...which offers 3 options...;  
-it is recommended you go, slowly, click all 3 options to set it up to work properly on your system;  
+it is recommended you click all 3 options in order to set it up to work properly on your system;  
 so, click option 1...; then, wait for set up to finish;  
 then, click option 2...; and, wait for set up to finish;  
 finally, click option 3...; and, wait for set up to conclude.  
 
 **NOTE**: You can run Ruby code inside of VSCode/Visual Studio code editor.
+
+-----
+
+## Example Ruby codes...
+
+### Simple output...
+
+>> print "Hello, world!" # print, does not include a 'new line' at the end  
+>> puts "Hello, world!"  # put includes a 'new line' at the end   
+
+### How to create/use functions...
+
+#### Example 1: Function...with empty argument list
+
+>> def printMsg()             # create function  
+>>  print("Hello, world!")    # print message text  
+>> end                        # end function  
+>> printMsg()                 # function call  
+
+#### Example 2: Function...with single argument list
+
+>> def printMsg(textMsg)      # create function  
+>>  print(textMsg)            # print message text   
+>> end                        # end function   
+>> printMsg("Hello, world!")  # function call   
 
 -----
 
