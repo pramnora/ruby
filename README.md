@@ -26,7 +26,14 @@ first, open a command prompt; and, next, type in...
 C:\Users\customer1>ruby -v  
 ruby 2.7.4p191 (2021-07-07 revision a21a3b7d23) [x64-mingw32]  
 
-**NOTE**: You can run Ruby code inside of VSCode/Visual Studio code editor.
+## Code editors...IDE/Integrated Development Enviroment
+
+Writing/running Ruby code works well inside of the following Code editors/IDE's...  
+
+- Atom   
+- VSCode/Visual Studio code editor  
+
+**NOTE**: My preferred code editor is VSCode.
 
 -----
 
