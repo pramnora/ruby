@@ -77,3 +77,10 @@ Become ﻿a ﻿Better Ruby Developer With This ﻿﻿FREE﻿﻿ ﻿Guide  (downl
 http://www.blackbytes.info/free-gift/  
 http://www.blackbytes.info/ruby-learning-mindmap/  
 
+### Tutorials...
+
+#### YouTube videos...
+
+Ruby Programming Language - Full Course (freecodecamp.org)  
+https://www.youtube.com/watch?v=t_ispmWmdjY&t=627s  
+
