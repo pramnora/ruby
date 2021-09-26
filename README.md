@@ -27,23 +27,23 @@ finally, click option 3...; and, wait for set up to conclude.
 ### Simple output...
 
 >> print "Hello, world!" # print, does not include a 'new line' at the end  
->> puts "Hello, world!"  # put includes a 'new line' at the end   
+>> puts "Hello, world!"  # puts, includes a 'new line' at the end   
 
 ### How to create/use functions...
 
 #### Example 1: Function...with empty argument list
 
->> def printMsg()             # create function  
->>  print("Hello, world!")    # print message text  
->> end                        # end function  
->> printMsg()                 # function call  
+>> def printMsg()             
+>>  print("Hello, world!")      
+>> end                         
+>> printMsg()                   
 
 #### Example 2: Function...with single argument list
 
->> def printMsg(textMsg)      # create function  
->>  print(textMsg)            # print message text   
->> end                        # end function   
->> printMsg("Hello, world!")  # function call   
+>> def printMsg(textMsg)        
+>>  print(textMsg)               
+>> end                          
+>> printMsg("Hello, world!")    
 
 -----
 
