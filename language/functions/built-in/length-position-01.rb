@@ -10,3 +10,8 @@ puts text[0]
 # Output...
 # 13
 # H
+
+# Explanation...
+# 1234567890123
+# Hello, world!
+# NOTE: Ruby counts character position 1 as 0/2 as 1/-etc.
